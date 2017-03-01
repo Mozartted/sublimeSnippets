@@ -1,0 +1,22 @@
+<snippet>
+    <content>
+    	<![CDATA[
+    	/*----------------------------------------------------------------
+    	| Title Here
+    	|-----------------------------------------------------------------
+    	|
+    	|
+    	|
+    	|
+    	|
+    	*/
+    	]]>
+    		
+    </content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>comment</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Laravel Comment Style</description>
+</snippet>
